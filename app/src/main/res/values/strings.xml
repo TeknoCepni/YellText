@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YellText</string>
+    <string name="button_name">Yell</string>
 </resources>
